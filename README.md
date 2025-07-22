@@ -1,2 +1,1 @@
-# PRIMERGIT
-Con este GIT empezamos una nueva etapa en nustra carrera
+# Mi proyecto con Git y GitHub
